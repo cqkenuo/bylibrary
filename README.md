@@ -11,6 +11,8 @@ Github访问：https://baizesec.github.io/bylibrary
 
 服务器访问：https://wiki.bylibrary.cn
 
+漏洞投稿邮箱：ByLibrary@163.com
+
 ## 贡献指南
 
 ### 贡献文档要求
